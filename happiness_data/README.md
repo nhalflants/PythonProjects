@@ -11,6 +11,10 @@ Available indicators :
 * generosity 
 * corruption (the lower the value, the more corruption there is)
 
+### Screenshot 
+
+![Happiness Data Graph Web App](https://github.com/nhalflants/PythonProjects/blob/master/happiness_data/screenshot%20app.png?raw=true)
+
 # Setup
 
 * Run command `streamlit run main.py`
