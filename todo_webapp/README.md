@@ -16,6 +16,10 @@ Context: PyCharm, Python 3.10, Streamlit
 - Synchronize GitHub with the server where we're hosting our web app.
 - Go to the terminal and run the web app.
 - Go to local host and select menu button and go to deploy this app
+  - To change base URL, set config option in `~/.streamlit/config.toml`. To view all configurations options : `streamlit config show` and change `baseUrlPath` :
+  
+  `[server]
+  baseUrlPath = 'app-65'`
 
 ## Screenshot
 
